@@ -1,5 +1,5 @@
 # KernelPlot
-This repository was created to collect data for quickly handling a variety of collision, coalescence, and collision-breakup kernels and efficiencies. Contributions from anyone are welcome.
+This repository is intended to efficiently handle a wide range of collision, coalescence, and collision-breakup kernels and efficiencies.
 
 ![KernelPlot](./python/SeeßelbergAndBott/003_collision_kernel_heatmap.png)
 
